@@ -5,6 +5,7 @@ Welcome to the Python lesson on live blockchain coding! In this session, we'll e
 ## 1 - Simple Transaction using Web3.js Library
 
 **Framework Development:** Truffle (Ganache)
+
 **Programming Languages:** Python and JavaScript
 
 To perform a simple transaction, follow these steps:
@@ -20,14 +21,11 @@ To perform a simple transaction, follow these steps:
 
 ## 2 - Development of Smart Contract using PyTeal
 
-For this section, you have two options:
-
 Install the Algokit package using the following command:
 `pipx install algokit`
 
 To verify the successful installation of Algokit, run:
 `algokit --version`
-
 
 Then, to set up your Algorand environment you can go through this documentation : [AlgoKit setup](https://developer.algorand.org/docs/get-started/algokit/)
 
