@@ -11,6 +11,8 @@ Welcome to the Python lesson on live blockchain coding! In this session, we'll e
 To perform a simple transaction, follow these steps:
 
 1. Make sure you have the required software installed: Truffle ( Ganache ), Python, and the Web3.js library.
+
+   
 [Ganache installation](https://trufflesuite.com/ganache/)
 
 `pip install web3`
